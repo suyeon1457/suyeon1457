@@ -28,9 +28,8 @@
 </p>
 <br>
 <h3 align="center">🌈 Follow Me</h3>
-<p align="center">
-  <a href="https://velog.io/@dev_suyeon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dev_suyeon"/></a>&nbsp
-  <a href="mailto:smb1457@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=smb1457@gmail.com"/></a>
+<p align="center">  
+  <a href="https://kiwi-airship-025.notion.site/4c564a13d5d34eaa8f2da0770e9e7033" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 <br>
 <h3 align="center">👩‍💻 My Github Stats</h3>
