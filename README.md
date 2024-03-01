@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=I'm%20SuYeon!&fontSize=80&descAlign=10&fontColor=363636&color=a7d6ec" />
-</p>
 <h3 align="center">👋Hi there,</h3>
-<p align="center">I'm SuYeon Byun, a full-stack developer.🚀</p>
+<p align="center">I'm SuYeon Byun, a back-end developer.🚀</p>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon1457%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
@@ -29,7 +26,7 @@
 <br>
 <h3 align="center">🌈 Follow Me</h3>
 <p align="center">  
-  <a target="_blank" href="https://kiwi-airship-025.notion.site/4c564a13d5d34eaa8f2da0770e9e7033" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a target="_blank" href="https://www.notion.so/4c564a13d5d34eaa8f2da0770e9e7033?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 <br>
 <h3 align="center">👩‍💻 My Github Stats</h3>
